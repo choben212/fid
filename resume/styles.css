@@ -1,0 +1,147 @@
+body {
+	background-color: #008080;
+	margin: 0px;
+	background-image: url("checker.jpg");
+	
+	}
+	
+header {  
+			
+		font-size: 50px;
+		font-family: "VT323", monospace;
+		padding: 15px; 
+		background-color: #c8cbcc; 
+		
+		border-bottom: 5px ridge #fcfdfd;
+		text-shadow: 1px 1px yellow;
+	}  
+			
+footer {  
+		font-size: 50px;
+		font-family: "VT323", monospace;
+		padding: 15px; 
+		background-color: #c8cbcc; 
+		box-shadow: 0 4px 8px 0 gray; 
+		border-top: 5px ridge #fcfdfd;
+		margin-top: 15px;
+	}  
+		
+h2 { 
+	font-size: 35px; 
+	margin: 0px; 
+	border-bottom: 1px solid blue;
+	font-family: "VT323", monospace;
+	font-weight: 200;		
+	color: blue; 
+	text-shadow: 2px 2px white;
+	} 
+		
+p {
+	font-family: "Nunito Sans", sans-serif;
+	}
+	
+
+section { 
+		padding: 10px;
+		display: block;
+		width: 70%;
+		margin-left: auto; 
+		margin-right: auto; 
+		margin-top: 10px; 
+		margin-bottom: 10px;
+		background-image: url("paper.jpg");
+		border: 4px; 
+		border-color: #c8cbcc;
+		border-style: solid ridge ridge ridge;
+		padding: 10px;  
+		box-shadow: 10px 10px #3E0254;
+		}  
+			
+img { 
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			
+		}
+			
+			
+table { 
+		margin-left: auto; 
+		margin-right: auto;
+		margin-top: 5px;
+		} 
+
+nav { 
+		text-align: center; 
+		padding: 10px; 
+		} 
+		
+.main { 
+		padding: 10px; 
+		background-color: #ADD8E6; 
+		border: 4px; 
+		border-style: inset; 
+		margin: 10px;
+		} 
+.main2 { 
+			padding: 10px; 
+			background-color: #ADD8E6; 
+			border: 4px; 
+			border-style: inset; 
+			margin: 10px;
+			text-align: center;
+		} 
+		
+
+	
+.hi { 
+			border: 3px solid #506aa1;
+			padding: 15px; 
+			background-color: #ADD8E6; 
+			margin: 15px; 
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			} 
+#selfie { 
+			border: 2px solid black; 
+			max-width: 8%; 
+			margin-top: 8px;
+			
+		
+		} 
+		
+.gallery { 
+			text-align: center;  
+			font-size: 30px;
+			} 
+			
+
+.link:hover { 
+			color: yellow; 
+		} 
+
+.work { 
+		width: 60%; 
+		height:auto; 
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		border: 2px solid white; 
+} 
+
+/* BACK BUTTON FOR GALLERY */
+.back{ 
+	text-align: center; 
+} 
+
+.back h3 { 
+	display: inline-block;
+	background-color: yellow; 
+	border: 1px solid #c8cbcc;
+	font-family: "VT323", monospace;
+	padding: 4px;
+	box-shadow: 10px 10px #003536;
+} 
+
+.back h3:hover { 
+	color: orange; 
+} 
+
+.back h3:active { 
+	color: white; 
+}
