@@ -1,0 +1,111 @@
+body {
+  background-image: url("clouds.jpg");
+  margin: 0;
+  font-family: sans-serif;
+  }
+h1 {
+  text-align: center;
+  font-family: "Sour Gummy", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+  background-color: #89c2d9;
+  padding: 30px;
+  color: white; 
+  text-shadow: 1px 1px black; 
+  text-shadow: 2px 2px #F4C2C2; 
+  text-shadow: 3px 3px #b6ccfe;
+  
+} 
+
+header { 
+	background-color: #89c2d9; 
+	size: 40%;
+}
+
+h2 {
+  color: #023e7d;
+  text-align: center;
+}
+
+img { 
+	margin: 10px; 
+	border-radius: 10px; 
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+div {
+	background-color: #FAF9F6;
+	padding: 8px;
+	border-color: #C7BEA5; 
+	margin-top: 5px;
+}
+
+
+article { 
+	
+	display: block;
+		width: 80%;
+		margin-left: auto; 
+		margin-right: auto; 
+		margin-top: 0px; 
+		margin-bottom: 10px;
+		border-radius: 15px;
+		
+}
+
+table { 
+		margin-left: auto; 
+		margin-right: auto;
+		margin-top: 5px;
+		} 
+		
+footer {
+ 
+  text-align: center;
+  padding-top: 1em; 
+ 
+  background-color; #89c2d9;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+  margin-left: .5em;
+  margin-right: .5em;
+ } 
+
+nav { 
+	background-color: #89c2d9;
+	text-align: center; 
+	padding: 10px;
+	background-color: #57b1dc; 
+	margin-bottom: 0;
+	
+
+}
+
+a {
+	padding: 4px; 
+	color: blue; 
+	text-decoration: none;
+} 
+
+.title { 
+	text-align: center; 
+} 
+
+.title h1 { 
+	display: inline-block;
+	background-color: #d7e3fc; 
+	border-radius: 5px;
+	padding: 4px;
+	
+} 
+
+
+a:hover { 
+	color: purple; 
+} 
+
+a:active { 
+	color: red; 
+}
